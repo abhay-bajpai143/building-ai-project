@@ -18,6 +18,17 @@ Problems solved:
 
 ## How is it used?
 
+## Project Screenshots
+
+### Spam Analyzer
+![Spam Analyzer](analyser.png)
+
+### Bulk Email Analyzer
+![Bulk Analyzer](bulk-analyser.png.png)
+
+### Detection Result
+![Result](result.png)
+
 Users receive an email, and the AI model analyzes the text before it reaches the inbox. The model predicts whether the email is spam or not and alerts the user if necessary.
 
 Example:
